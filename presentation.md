@@ -40,3 +40,7 @@ Just 3 programs are required:
 Yes, you read that correctly.
 The website also doubles as an installer.
 
+---
+
+# Questions?
+
