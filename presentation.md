@@ -49,6 +49,12 @@ The website also doubles as an installer.
 
 ---
 
+# Creating an Ellipsis package
+
+`ellipsis new <package name>`
+
+---
+
 # Demonstration Time
 
 
