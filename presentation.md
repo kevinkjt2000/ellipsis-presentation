@@ -118,7 +118,7 @@ For example, Using the pkg.install hook it is possible to initialize submodules 
 
 ---
 
-# Can my package behave differently based on the OS?
+# Can my package behave differently based on what OS it is installed on?
 
 Yes.
 
