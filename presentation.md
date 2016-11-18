@@ -70,6 +70,12 @@ ellipsis add <package name> <dotfile>
 
 ---
 
+# Why are all these symlinks being created?
+
+This is how Ellipsis and other tools like it manage your dotfiles from another location in memory.
+
+---
+
 # Backing up the package
 
 Ellipsis packages are git repositories, so you will need access to a git server such as GitHub.
