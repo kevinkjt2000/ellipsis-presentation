@@ -40,7 +40,10 @@ Just 3 programs are required:
 
 # Installation
 
-`curl -sL ellipsis.sh | sh`
+```bash
+curl -sL ellipsis.sh | sh
+export PATH=$HOME/.ellipsis/bin:$PATH
+```
 
 . . .
 
@@ -69,8 +72,16 @@ After creating a new repository on GitHub you can push your package for the worl
 
 ```bash
 cd $HOME/.ellipsis/packages/<package name>
-git remote add origin git@github.com:username/dot-package.git
+git remote add origin git@github.com:<username>/dot-<package name>.git
 git push -u origin master
+```
+
+---
+
+# Installing a previously backed up package
+
+```bash
+ellipsis install <username>/<package name> 
 ```
 
 ---
