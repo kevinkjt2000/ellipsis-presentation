@@ -56,11 +56,17 @@ The website also doubles as an installer.
 
 Initialize a new package with
 
-   `ellipsis new <package name>`
+```bash
+ellipsis new <package name>
+```
+
+. . .
 
 Then, add dotfiles that you want it to manage
 
-   `ellipsis add <package name> <dotfile>`
+```bash
+ellipsis add <package name> <dotfile>
+```
 
 ---
 
