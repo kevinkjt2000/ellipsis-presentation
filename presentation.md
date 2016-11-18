@@ -1,6 +1,11 @@
 ---
 title: Ellipsis all the .files!
 author: Kevin Tindall
+patat:
+  incrementalLists: true
+  wrap: true
+  theme:
+    header: [vividGreen]
 ...
 
 ---
@@ -9,10 +14,10 @@ author: Kevin Tindall
 
 Configuration files in a $HOME directory, such as:
 
-- .bash_profile
-- .gitconfig
-- .tmux.conf
-- .vimrc
+> - .bash_profile
+> - .gitconfig
+> - .tmux.conf
+> - .vimrc
 
 ---
 
@@ -29,4 +34,9 @@ Just 3 programs are required:
 # Installation
 
 `curl -sL ellipsis.sh | sh`
+
+. . .
+
+Yes, you read that correctly.
+The website also doubles as an installer.
 
