@@ -106,6 +106,16 @@ And for doing a backup, follow instructions from your special git server for pus
 
 ---
 
+# Customizing your package with hooks
+
+Ellipsis will use ellipsis.sh from your git repo for any custom operations you would like to perform.
+
+These custom operations are just hooks that the rest of Ellipsis will use instead of the normal defaults.
+
+For example, Using the pkg.install hook it is possible to initialize submodules when installing the package.
+
+---
+
 # Can my package behave differently based on the OS?
 
 Yes.
