@@ -106,6 +106,16 @@ And for doing a backup, follow instructions from your special git server for pus
 
 ---
 
+# Can my package behave differently based on the OS?
+
+Yes.
+
+. . .
+
+There is an API call in Ellipsis that allows your ellipsis.sh script to determine the OS.
+
+---
+
 # Demonstration Time
 
 
