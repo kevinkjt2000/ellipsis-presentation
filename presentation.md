@@ -16,6 +16,7 @@ Configuration files in a $HOME directory, such as:
 
 > - .bash_profile
 > - .gitconfig
+> - .p4config
 > - .tmux.conf
 > - .vimrc
 
@@ -45,6 +46,12 @@ Just 3 programs are required:
 
 Yes, you read that correctly.
 The website also doubles as an installer.
+
+---
+
+# Demonstration Time
+
+
 
 ---
 
