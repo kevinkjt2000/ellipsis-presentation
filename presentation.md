@@ -114,6 +114,8 @@ These custom operations are just hooks that the rest of Ellipsis will use instea
 
 For example, Using the pkg.install hook it is possible to initialize submodules when installing the package.
 
+<http://docs.ellipsis.sh/en/master/hooks/>
+
 ---
 
 # Can my package behave differently based on the OS?
