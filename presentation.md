@@ -51,7 +51,13 @@ The website also doubles as an installer.
 
 # Creating an Ellipsis package
 
-`ellipsis new <package name>`
+Initialize a new package with
+
+   `ellipsis new <package name>`
+
+Then, add dotfiles that you want it to manage
+
+   `ellipsis add <package name> <dotfile>`
 
 ---
 
