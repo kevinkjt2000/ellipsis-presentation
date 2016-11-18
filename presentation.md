@@ -100,6 +100,16 @@ Note the dot- that is added to the repository's name.
 ellipsis install <username>/<package name> 
 ```
 
+. . .
+
+This can be shortened to
+
+```bash
+ellipsis install <package name>
+```
+
+if you have .gitconfig setup with your GitHub username.
+
 ---
 
 # But, what if I do not like GitHub?
