@@ -84,17 +84,19 @@ git push -u origin master
 
 ---
 
-# But, what if I do not like GitHub?
-
-Then just specify the full URL path to your repository during an ellipsis install.
-
----
-
 # Installing a previously backed up package
 
 ```bash
 ellipsis install <username>/<package name> 
 ```
+
+---
+
+# But, what if I do not like GitHub?
+
+Then just specify the full URL path to your repository during an ellipsis install.
+
+And for doing a backup, follow instructions from your special git server for pushing an already existing git repo.
 
 ---
 
