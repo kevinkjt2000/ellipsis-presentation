@@ -126,7 +126,7 @@ Ellipsis will use ellipsis.sh from your git repo for any custom operations you w
 
 These custom operations are just hooks that the rest of Ellipsis will use instead of the normal defaults.
 
-For example, Using the pkg.install hook it is possible to initialize submodules when installing the package.
+For example, Using the pkg.install hook it is possible to initialize submodules when installing a package.
 
 <http://docs.ellipsis.sh/en/master/hooks/>
 
