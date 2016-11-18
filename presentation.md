@@ -10,7 +10,7 @@ patat:
 
 ---
 
-# What are .files?
+# What are .files? (a.k.a. dotfiles)
 
 Configuration files in a $HOME directory, such as:
 
@@ -18,6 +18,12 @@ Configuration files in a $HOME directory, such as:
 > - .gitconfig
 > - .tmux.conf
 > - .vimrc
+
+---
+
+# What does Ellipsis do?
+
+Ellipsis is a package manager for dotfiles.
 
 ---
 
