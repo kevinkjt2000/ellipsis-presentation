@@ -61,6 +61,20 @@ Then, add dotfiles that you want it to manage
 
 ---
 
+# Backing up the package
+
+Ellipsis packages are git repositories, so you will need access to a git server such as GitHub.
+
+After creating a new repository on GitHub you can push your package for the world to see:
+
+```bash
+cd $HOME/.ellipsis/packages/<package name>
+git remote add origin git@github.com:username/dot-package.git
+git push -u origin master
+```
+
+---
+
 # Demonstration Time
 
 
