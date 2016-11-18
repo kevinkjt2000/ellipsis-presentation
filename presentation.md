@@ -88,6 +88,10 @@ git remote add origin git@github.com:<username>/dot-<package name>.git
 git push -u origin master
 ```
 
+. . .
+
+Note the dot- that is added to the repository's name.
+
 ---
 
 # Installing a previously backed up package
